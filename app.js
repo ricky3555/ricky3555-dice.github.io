@@ -9,8 +9,8 @@ var config = {
   app_name: 'nicedice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
-  redirect_uri: 'https://untitled-dice.github.io',
+  recaptcha_sitekey: '3206028c-d7c6-4ec8-933a-b7ec098e71be',  // <----- EDIT ME!
+  redirect_uri: 'https://ricky3555.github.io/.',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
